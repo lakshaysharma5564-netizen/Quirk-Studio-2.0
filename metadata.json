@@ -1,0 +1,6 @@
+{
+  "name": "Quirk Studio – Luxury Salon Dwarka",
+  "description": "Quirk Studio is a premier luxury salon in Sector 12, Dwarka, New Delhi. Experience bespoke hair transformations, bridal makeup, balayage, and advanced skin rituals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
