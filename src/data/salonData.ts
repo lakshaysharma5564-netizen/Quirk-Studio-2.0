@@ -311,35 +311,35 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'g-1',
     title: 'Caramel & Honey Balayage Waves',
     category: 'hair',
-    image: '/src/assets/images/hair_balayage_luxury_1794085229356.jpg',
+    image: '/images/hair_balayage_luxury.jpg',
     caption: 'Multi-dimensional freehand French balayage with high-gloss mirror finish.'
   },
   {
     id: 'g-2',
     title: 'Royal Indian Bridal Glamour',
     category: 'bridal',
-    image: '/src/assets/images/bridal_makeup_look_1794085229688.jpg',
+    image: '/images/bridal_makeup_look.jpg',
     caption: 'Dewy couture skin base with delicate champagne shimmer and royal jewelry styling.'
   },
   {
     id: 'g-3',
     title: 'Architectural Styling Lounge',
     category: 'interior',
-    image: '/src/assets/images/hero_quirk_salon_1794085228788.jpg',
+    image: '/images/hero_quirk_salon.jpg',
     caption: 'Minimalist Italian styling stations with bespoke backlit bronze mirrors.'
   },
   {
     id: 'g-4',
     title: 'Gold Radiance Skin Ritual',
     category: 'skin',
-    image: '/src/assets/images/skin_facial_spa_1794085231378.jpg',
+    image: '/images/skin_facial_spa.jpg',
     caption: 'Nourishing botanical serum infusion and cellular renewal therapy.'
   },
   {
     id: 'g-5',
     title: 'Serene Hair Wash & Scalp Spa',
     category: 'interior',
-    image: '/src/assets/images/salon_interior_wash_1794085232200.jpg',
+    image: '/images/salon_interior_wash.jpg',
     caption: 'Ergonomic reclining black leather washbasins with fluted wood acoustic walls.'
   }
 ];

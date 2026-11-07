@@ -51,7 +51,7 @@ export const AboutView: React.FC<AboutViewProps> = ({ onOpenBooking, onNavigate 
           <div className="lg:col-span-6">
             <div className="border border-[#262626] bg-[#141414] p-3">
               <img
-                src="/src/assets/images/hero_quirk_salon_1794085228788.jpg"
+                src="/images/hero_quirk_salon.jpg"
                 alt="Quirk Studio Salon Interior in Dwarka"
                 referrerPolicy="no-referrer"
                 className="w-full h-auto object-cover"

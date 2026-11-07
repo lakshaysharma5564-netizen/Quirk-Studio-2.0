@@ -30,7 +30,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
         {/* Background Image with Measured Scrim */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/hero_quirk_salon_1794085228788.jpg"
+            src="/images/hero_quirk_salon.jpg"
             alt="Quirk Studio Luxury Salon Interior in Sector 12 Dwarka"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover object-center scale-105 animate-subtleZoom"
@@ -236,7 +236,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
           <div className="lg:col-span-6 relative">
             <div className="relative border border-[#282828] p-3 bg-[#121212]">
               <img
-                src="/src/assets/images/hair_balayage_luxury_1794085229356.jpg"
+                src="/images/hair_balayage_luxury.jpg"
                 alt="Hair Balayage transformation at Quirk Studio Dwarka"
                 referrerPolicy="no-referrer"
                 className="w-full h-auto object-cover"
@@ -421,7 +421,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
               <div className="relative border border-[#282828] bg-[#161616] p-4 space-y-4">
                 <div className="aspect-[16/9] w-full overflow-hidden border border-[#242424]">
                   <img
-                    src="/src/assets/images/salon_interior_wash_1794085232200.jpg"
+                    src="/images/salon_interior_wash.jpg"
                     alt="Quirk Studio Hair Wash and Scalp Lounge Sector 12 Dwarka"
                     referrerPolicy="no-referrer"
                     className="w-full h-full object-cover"
